@@ -1,0 +1,12 @@
+.di{
+    display: block;
+    color:red;
+    width:500px;
+
+}
+.inner{
+  margin: 10px;
+  padding: 10px;
+  background-color: blue;
+  border: solid white 1px;
+}

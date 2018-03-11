@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% block content %}
+{% for row in data %}
+{{ row.name }} <br>
+{{ row.role }}<br>
+{{ row.website }}<br>
+{{ row.description }}<br>
+
+{% endfor %}
+{{ data.as_table }}
+{% endblock %}
