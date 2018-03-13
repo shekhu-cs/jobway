@@ -7,4 +7,4 @@ This project is devloped using django framework of python and this project mainl
 5. bootstrap file named 'layout.html' for rich view
 6. html form for search box 
 7. django form for company form
-
+8. djnago admin
